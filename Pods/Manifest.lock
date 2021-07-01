@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (5.4.3)
+  - ImagePicker (3.2.0)
+  - SwiftPhotoGallery (3.4.1)
+  - SwiftyJSON (5.0.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - ImagePicker
+  - SwiftPhotoGallery
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - ImagePicker
+    - SwiftPhotoGallery
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: e447a2774a40c996748296fa2c55112fdbbc42f9
+  ImagePicker: 1d950bbb2422548ed58791b4ec7f42fe42920511
+  SwiftPhotoGallery: 795b79e2596beb160fb978e232603da0811006ce
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+
+PODFILE CHECKSUM: 9fc7c31db2f0f5f4e96dde42195a40fc6655870e
+
+COCOAPODS: 1.10.1
