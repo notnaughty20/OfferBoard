@@ -1,3 +1,1 @@
-# OfferBoard
-# OfferBoard
-# OfferBoard
+Учебный проект --- Интернет магазин
